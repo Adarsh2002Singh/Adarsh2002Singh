@@ -1,3 +1,4 @@
+![logo](https://github.com/Adarsh2002Singh/Adarsh2002Singh/blob/main/GithubBanner.jpg)
 <h1 align="center">Hi 👋, I'm Adarsh kumar Singh</h1>
 <h3 align="center">I am Adarsh Singh , passionate and enthusiastic Web3 enthusiast currently learning and developing skills as a blockchain developer.</h3>
 <img align="right alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
